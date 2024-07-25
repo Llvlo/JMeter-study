@@ -1,8 +1,6 @@
 性能测试的步骤
 
 1. [下载](http://jmeter.apache.org/download_jmeter.cgi)选择Binaries的zip
-
-
 ![image](https://github.com/user-attachments/assets/2393236f-7b39-4310-8b7c-cad004f24444)
 
 2. 双击**bin**目录下的**jmeter.bat**文件启动
