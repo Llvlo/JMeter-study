@@ -32,6 +32,14 @@
      
    * ![image](https://github.com/user-attachments/assets/434ad928-32c6-430d-a016-1816fe2921ad)
 
+导入jmx文件
+file》》open
+* ![jmx文件导入1](https://github.com/user-attachments/assets/55056930-224a-40c6-8d9a-2e31ba470e75)
+* ![image](https://github.com/user-attachments/assets/4579fc8d-bd3a-4dcf-8545-f0d3efd0e8b5)
+
+
+
+
 
    
 
